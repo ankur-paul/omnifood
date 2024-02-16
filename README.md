@@ -1,2 +1,2 @@
-omnifood-ankur.netlify.app
+https://omnifood-ankur.netlify.app
 # omnifood
